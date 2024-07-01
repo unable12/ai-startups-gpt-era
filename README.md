@@ -294,6 +294,8 @@ Primary modality = text
 | [Layup](https://www.layupai.com/) | "initiate… customized workflows to complete your everyday tasks" | YC W23 |
 | [Minion AI](https://minion.ai/) | "automated browser assistant" | [AI Grant](https://aigrant.org/) batch 1 |
 | [Moemate](https://www.moemate.io/) | "virtual companion that enriches your life" | |
+| [Wordware](https://www.wordware.ai) | "A web-hosted IDE where non-technical domain experts work with AI Engineers to build task-specific AI agents. It approaches prompting as a new programming language rather than low/no-code blocks." | |
+
 
 ### Delegate domain-specific actions to an online agent
 
